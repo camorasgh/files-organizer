@@ -1,0 +1,8 @@
+[package]
+name = "organize-files"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+dirs = "4.0"
+rand = "0.9.0-alpha.2"
